@@ -76,7 +76,7 @@ body {
   color: var(--line-border-fill);
 }
 
-.context {
+.content {
   color: var(--line-border-empty);
   border-radius: 10px;
   border: 2px solid var(--line-border-empty);
